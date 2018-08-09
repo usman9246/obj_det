@@ -1,0 +1,8 @@
+
+1. Boundary pixels of the input image must be black
+2. This code also accepts coloured and gray-scaled images as it will convert them to blank & white images itself but then again boundary pixels must be black or dark enough to appear black in the black & white version of the image.
+3. Colours are selected randomly.
+
+
+*** THIS CODE IS WRITTEN WITH THE HELP FROM mathworks.com ONLY ***
+*** NOTHING IS COPIED OR USED FROM SOMEONE ELSE'S WORK ***
